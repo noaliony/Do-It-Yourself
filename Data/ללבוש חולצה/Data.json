@@ -1,0 +1,16 @@
+{
+    "Name": "ללבוש חולצה",
+    "EnglishName": "wear_a_shirt",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS wear_a_shirt(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT,action_6 TEXT, totalTime TEXT)",
+    "AmountOfItems": 6,
+    "Images":
+    [
+       "לקחת את החולצה",
+       "להכניס את הראש",
+       "להכניס יד אחת לַשַׁרְוּוּל הראשון",
+       "להכניס יד שנייה לַשַׁרְוּוּל השני",
+       "להוריד את החולצה לְמָּטה",
+       "עכשיו אני מוכן"
+    ]
+}

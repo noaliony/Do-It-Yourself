@@ -1,0 +1,15 @@
+{
+    "Name": "לסחוט מיץ תפוזים",
+    "EnglishName": "make_orange_juice",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS make_orange_juice(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, totalTime TEXT)",
+    "AmountOfItems": 5,
+    "Images":
+    [
+       "להביא תפוז, כוס, מסחטת מיץ וּסַכִּין",
+       "לחתוך את התפוז לשתי חתיכות בעזרת הסכין",
+       "לקחת חצי תפוז ולסחוט אותו בעזרת המַסְחֵטָה",
+       "למזוג את המיץ מהמסחטה לְכּוֹס",
+       "עכשיו אפשר לשתות"
+    ]
+}

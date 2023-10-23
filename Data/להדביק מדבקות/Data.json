@@ -1,0 +1,13 @@
+{
+    "Name": "להדביק מדבקות",
+    "EnglishName": "stick_stickers",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS stick_stickers(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+       "להביא דף ומדבקות",
+       "להוציא מַדְבֵּקָה בעזרת שתי אצבעות",
+       "להדביק את המַדְבֵּקָה על הדף"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "לטאטא את הרצפה",
+    "EnglishName": "sweep_the_floor",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS sweep_the_floor(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, totalTime TEXT)",
+    "AmountOfItems": 4,
+    "Images":
+    [
+       "להביא מֵטַאטֵא ויָעֶה",
+       "לטאטא את הלכלוך מהרצפה",
+       "לאסוף את הלכלוך שהצטבר לַיָּעֶה",
+       "לזרוק את הלכלוך שעל הַיָּעֶה לתוך הפח"
+    ]
+}

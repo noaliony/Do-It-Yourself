@@ -1,0 +1,13 @@
+{
+    "Name": "לנסוע בקורקינט",
+    "EnglishName": "ride_a_scooter",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS ride_a_scooter(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+        "לקחת את הקוֹרְקִינֶט",
+        "לָשִׂים רגל אחת על הקוֹרְקִינֶט",
+        "לדחוף עם הרֶגֶל השנייה"    
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "לצבוע בצבעי גואש",
+    "EnglishName": "paint_with_gouache_colors",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS paint_with_gouache_colors(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, totalTime TEXT)",
+    "AmountOfItems": 4,
+    "Images":
+    [
+       "להביא דף, צבעי גואש ומִכְּחוֹל",
+       "לפתוח את הצֶבַע שאנחנו רוצים",
+       "לָשִׂים קצת צֶבַע על הַמִּכְּחוֹל",
+       "למרוח את הצֶבַע על הדף בעזרת הַמִּכְּחוֹל"
+    ]
+}

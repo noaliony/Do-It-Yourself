@@ -1,0 +1,15 @@
+{
+    "Name": "להכין מיץ פטל",
+    "EnglishName": "make_raspberry_juice",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS make_raspberry_juice(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, totalTime TEXT)",
+    "AmountOfItems": 5,
+    "Images":
+    [
+       "להביא מיץ פטל, כוס וכַּפִּית",
+       "למזוג קצת פטל לתוך הכוס",
+       "למזוג מַיּם לתוך הכוס",
+       "לערבב עם הכַּפִּית",
+       "עכשיו אפשר לשתות"
+    ]
+}

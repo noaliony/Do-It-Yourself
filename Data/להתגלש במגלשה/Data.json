@@ -1,0 +1,13 @@
+{
+    "Name": "להתגלש במגלשה",
+    "EnglishName": "slide_down_the_slide",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS slide_down_the_slide(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+      "לטפס על הסולם",
+      "להתיישב בתחילת הַמַּגְלֵשָׁה",
+      "לֵהִתְגַלֵש"
+    ]
+}

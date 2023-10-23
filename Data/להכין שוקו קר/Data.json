@@ -1,0 +1,15 @@
+{
+    "Name": "להכין שוקו קר",
+    "EnglishName": "make_cold_chocolate",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS make_cold_chocolate(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, totalTime TEXT)",
+    "AmountOfItems": 5,
+    "Images":
+    [
+       "להביא שוקולית, חָלָב, כוס וכַּפִּית",
+       "לָשִׂים כַּפִּית שוקולית בתוך הכוס",
+       "למזוג חלב לתוך הכוס",
+       "לערבב עם כַּפִּית",
+       "עכשיו אפשר לשתות"
+    ]
+}

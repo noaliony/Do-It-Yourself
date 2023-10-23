@@ -1,0 +1,16 @@
+{
+    "Name": "לשטוף את הרצפה",
+    "EnglishName": "wash_the_floor",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS wash_the_floor(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, totalTime TEXT)",
+    "AmountOfItems":6,
+    "Images":
+    [
+       "להביא דלי עם מַיּם, סבון, מגב וּסְמַרְטוּט",
+       "לשפוך סבון לתוך הדלי עם המַיּם",
+       "לטבול את הסְמַרְטוּט בתוך הַדְּלִי",
+       "להניח את הסְמַרְטוּט על הָמַגָב",
+       "לשפשף את הרצפה בעזרת הָמַגָב", 
+       "להחזיר את הסְמַרְטוּט לַדְּלִי"
+    ]
+}

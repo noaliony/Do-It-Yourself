@@ -1,0 +1,16 @@
+{
+    "Name": "להכין כריך",
+    "EnglishName": "make_a_sandwich",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS make_a_sandwich(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, totalTime TEXT)",
+    "AmountOfItems": 6,
+    "Images":
+    [
+       "להביא לחם, ממרח וּסַכִּין",
+       "לקחת שתי פרוסות לחם",
+       "לשים ממרח על הסכין",
+       "למרוח את המִמְרָח על הלחם בעזרת הסכין",
+       "להניח פרוסה אחת על השנייה",
+       "עכשיו אפשר לאכול"
+    ]
+}

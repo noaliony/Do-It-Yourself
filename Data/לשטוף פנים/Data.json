@@ -1,0 +1,15 @@
+{
+    "Name": "לשטוף פנים",
+    "EnglishName": "wash_your_face",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS wash_your_face(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, totalTime TEXT)",
+    "AmountOfItems": 5,
+    "Images":
+    [
+        "לפתוח את הַבֶּרֶז",
+        "להרטיב את הַפָּנִים",
+        "לסגור את הַבֶּרֶז",
+        "לְנַגֵּב את הַפָּנִים עם מגבת",
+        "עכשיו הַפָּנִים שלי נקיות"
+    ]
+}

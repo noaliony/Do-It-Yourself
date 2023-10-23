@@ -1,0 +1,13 @@
+{
+    "Name": "למרוח פלסטלינה",
+    "EnglishName": "smear_plasticine",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS smear_plasticine(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+       "להביא דף וּפְּלַסְטֵלִינָה",
+       "לחתוך חתיכה קטנה של פלסטלינה",
+       "למרוח בעזרת האצבע את הַפְּלַסְטֵלִינָה על הדף"
+    ]
+}

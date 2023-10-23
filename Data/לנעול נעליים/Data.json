@@ -1,0 +1,17 @@
+{
+    "Name": "לנעול נעליים",
+    "EnglishName": "put_on_shoes",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS put_on_shoes(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, action_7 TEXT, totalTime TEXT)",
+    "AmountOfItems": 7,
+    "Images":
+    [
+     "לקחת נָעַל אחת ולפתוח את הַסְקוץ׳",
+     "להכניס לתוך הָרֶגֶל הראשונה",
+     "לסגור את הַסְקוץ׳ של הַנַּעַל הראשונה",
+     "לקחת נַּעַל שנייה ולפתוח את הַסְקוץ׳",
+     "להכניס לתוך הָרֶגֶל השנייה",
+     "לסגור את הַסְקוץ׳ של הַנַּעַל השנייה",
+     "עכשיו אני מוכן"
+    ]
+}

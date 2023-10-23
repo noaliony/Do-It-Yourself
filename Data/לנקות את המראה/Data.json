@@ -1,0 +1,14 @@
+{
+    "Name": "לנקות את המראה",
+    "EnglishName": "clean_the_mirror",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS clean_the_mirror(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, totalTime TEXT)",
+    "AmountOfItems": 4,
+    "Images":
+    [
+       "להביא ספריי לַמַּרְאָה ונייר",
+       "להתיז קצת ספריי על המַּרְאָה",
+       "לשפשף את החומר על המַּרְאָה בעזרת הנייר",
+       "עכשיו המַּרְאָה נקייה"
+    ]
+}

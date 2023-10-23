@@ -1,0 +1,12 @@
+{
+    "Name": "לנסוע בבימבה",
+    "EnglishName": "ride_a_bimba",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS ride_a_bimba(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, totalTime TEXT)",
+    "AmountOfItems": 2,
+    "Images":
+    [
+        "לשבת על הבִּימְבָּה וליישר את הַרַגְלָיּם קָדִימָה",
+        "לדחוף עם הַרַגְלָיּם אֲחוֹרָהּ"
+    ]
+}

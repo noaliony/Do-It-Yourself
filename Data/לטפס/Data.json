@@ -1,0 +1,15 @@
+{
+    "Name": "לטפס",
+    "EnglishName": "to_climb",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS to_climb(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, totalTime TEXT)",
+    "AmountOfItems": 5,
+    "Images":
+    [
+       "להניח שְׁתֵּי יָדַים גבוה על החבל",
+       "לָשִׂים רגל אחת על החבל",
+       "לשים את הָרֶגֶל השנייה על החבל גבוה יותר מהראשונה",
+       "להעלות את הָרֶגֶל הראשונה גבוה יותר מהשנייה",
+       "עכשיו אני גבוה"
+    ]
+}

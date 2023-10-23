@@ -1,0 +1,19 @@
+{
+    "Name": "שירותים - בן",
+    "EnglishName": "toilet_boy",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS toilet_boy(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, action_7 TEXT, action_8 TEXT, action_9 TEXT, totalTime TEXT)",
+    "AmountOfItems": 9,
+    "Images":
+    [
+        "להוריד את הַמִּכְנָסַיּם",
+        "להוריד את התחתונים",
+        "לשחרר את כל הפיפי לָאַסְלָה",
+        "לְנַגֵּב בְּנִייר אם הִתְלַכְלַכְתִּי",
+        "להוריד את המַיּם בָּאַסְלָה",
+        "להרים את התחתונים",
+        "להרים את הַמִּכְנָסַיּם",
+        "לשטוף את היָדַים",
+        "לְנַגֵּב את היָדַים"
+    ]
+}

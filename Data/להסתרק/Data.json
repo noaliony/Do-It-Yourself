@@ -1,0 +1,13 @@
+{
+    "Name": "להסתרק",
+    "EnglishName": "comb_your_hair",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS comb_your_hair(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+       "להביא מַסְרֵק",
+       "להעביר את המסרק על השיער מלמעלה עד לְמַטָּה",
+       "לחזור על הפעולה עד שהשיער חָלַק"
+    ]
+}

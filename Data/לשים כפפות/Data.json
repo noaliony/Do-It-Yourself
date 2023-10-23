@@ -1,0 +1,17 @@
+{
+    "Name": "לשים כפפות",
+    "EnglishName": "put_on_gloves",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS put_on_gloves(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, action_7 TEXT, totalTime TEXT)",
+    "AmountOfItems": 7,
+    "Images":
+    [
+       "לקחת כפפה ראשונה",
+       "להכניס את היד לתוך הכפפה",
+       "למשוך את הכפפה לְמעלַה",
+       "לקחת כפפה שנייה",
+       "להכניס את היד השנייה לתוך הכפפה",
+       "למשוך את הכפפה השנייה לְמעלַה",
+       "עכשיו אני מוכן"
+    ]
+}

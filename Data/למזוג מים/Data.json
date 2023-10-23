@@ -1,0 +1,13 @@
+{
+    "Name": "למזוג מים",
+    "EnglishName": "pour_water",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS pour_water(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, totalTime TEXT)",
+    "AmountOfItems": 3,
+    "Images":
+    [
+       "להביא בקבוק מים וכוס",
+       "למזוג מַיּם לתוך הכוס",
+       "עכשיו אפשר לשתות"
+    ]
+}

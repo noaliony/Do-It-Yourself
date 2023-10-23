@@ -1,0 +1,16 @@
+{
+    "Name": "לעשות קניות",
+    "EnglishName": "shop_at_the_supermarket",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS shop_at_the_supermarket(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, totalTime TEXT)",
+    "AmountOfItems": 6,
+    "Images":
+    [
+        "להסתכל בֵּרֵשִׁימַת הקניות מה צריך לקנות",
+        "לקחת מוצר ראשון וּלֵהַכְנִיס לתוך העגלה",
+        "לקחת מוצר שֵׁנִי וּלֵהַכְנִיס לתוך העגלה",
+        "לחזור על הפעולה עד שֶׁאָסַפְנוּ את כל המוצרים",
+        "בסוף, לגשת לקופה וּלֶהַנִּיחַ את המוצרים",
+        "לשלם לַקֻּפָּאִית"
+    ]
+}

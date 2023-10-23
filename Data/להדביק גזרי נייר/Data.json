@@ -1,0 +1,14 @@
+{
+    "Name": "להדביק גזרי נייר",
+    "EnglishName": "paste_paper_cuttings",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS paste_paper_cuttings(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, totalTime TEXT)",
+    "AmountOfItems": 4,
+    "Images":
+    [
+       "להביא דף, דֶּבֶק וחתיכות נייר",
+       "לפתוח את הדֶּבֶק",
+       "למרוח דֶּבֶק על חתיכות הנייר",
+       "להניח את חתיכות הנייר על הדף"
+    ]
+}

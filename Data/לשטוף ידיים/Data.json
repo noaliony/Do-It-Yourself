@@ -1,0 +1,17 @@
+{
+    "Name": "לשטוף ידיים",
+    "EnglishName": "wash_your_hands",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS wash_your_hands(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, action_7 TEXT, totalTime TEXT)",
+    "AmountOfItems": 7,
+    "Images":
+    [
+        "לפתוח את הַבֶּרֶז",
+        "להרטיב את היָדַים",
+        "לָשִׂים סבון על היָדַים",
+        "לשפשף את היָדַים",
+        "לשטוף את היָדַים היטב",
+        "לסגור את הַבֶּרֶז",
+        "לְנַגֵּב את היָדַים"
+    ]
+}

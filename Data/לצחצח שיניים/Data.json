@@ -1,0 +1,16 @@
+{
+    "Name": "לצחצח שיניים",
+    "EnglishName": "brush_teeth",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS brush_teeth(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, totalTime TEXT)",
+    "AmountOfItems": 6,
+    "Images":
+    [
+        "להביא מברשת וּמִשְׁחַת שִׁינַים",
+        "להרטיב את המִבְרֶשֶׁת בְּמַיּם",
+        "לשים מִשְׁחָה על המברשת",
+        "לצחצח את השִׁינַים לְמַעְלָה ולְמַּטָה",
+        "לשטוף את הפה בְּמַיּם",
+        "עכשיו השִׁינַים שלי נקיות"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Name": "לשטוף כלים",
+    "EnglishName": "wash_the_dishes",
+    "MyChildrenAreSequences": false,
+    "DBCommand": "CREATE TABLE IF NOT EXISTS wash_the_dishes(dateTime TEXT PRIMARY KEY, action_1 TEXT, action_2 TEXT, action_3 TEXT, action_4 TEXT, action_5 TEXT, action_6 TEXT, action_7 TEXT, totalTime TEXT)",
+    "AmountOfItems": 7,
+    "Images":
+    [
+       "להביא סְקוץ׳ וּסַבּוֹן כֵּלִים",
+       "לָשִׂים סבון על הַסְקוץ׳",
+       "לקחת כּלִי וּלְשַׁפְשֵׁף אותו בעזרת הַסְקוץ׳",
+       "לפתוח את הַבֶּרֶז",
+       "לשטוף את הכלי מִתַּחַת למַיּם",
+       "לסגור את הַבֶּרֶז",
+       "להניח את הכלי להתייבש"
+    ]
+}
