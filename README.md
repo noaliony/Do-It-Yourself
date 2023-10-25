@@ -21,5 +21,8 @@ The time taken for completion will be saved in the application's database, to pr
 3. Run **_do_it_yourself.exe_**.
 
 # Poster
+![Poster](https://github.com/noaliony/Do-It-Yourself/assets/88549819/bfd3e1ab-5a19-4fdc-ad8d-d6501a99db7a)
 
-# Video
+# Demo Video
+https://github.com/noaliony/Do-It-Yourself/assets/88549819/8f6b0899-4ac2-47fd-9a90-d285fbf76391
+
