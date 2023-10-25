@@ -1,16 +1,25 @@
-# do_it_yourself
+# Do It Yourself
 
-A new Flutter project.
+This is Do It Yourself - A sequence learning app!  
+Some people with Autism Spectrum Disorder have difficulty in performing basic chores that require a sequence of actions.  
+Our application helps this audience in their journey of learning and training towards independence.
 
-## Getting Started
+# How Does It Work?
 
-This project is a starting point for a Flutter application.
+The therapist chooses a sequence (I.E. hand washing sequence) for the user to perform.  
+Following that, the sequence will be shown.  
+The user is prompted to perform the actions themselves.  
+They will do that in coordination to the basic actions that are shown on the screen, one by one, to complete the whole sequence, in order to help the user perform the action in the right order and stay focused.
 
-A few resources to get you started if this is your first Flutter project:
+After performing the task, a successful completion message will be shown, along with the time it took the user to complete the sequence.  
+The time taken for completion will be saved in the application's database, to provide improvement tracking for the user.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# How To Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Go to [Latest Release](https://github.com/noaliony/Do-It-Yourself/releases/latest).
+2. Download the zip.
+3. Run **_do_it_yourself.exe_**.
+
+# Poster
+
+# Video
